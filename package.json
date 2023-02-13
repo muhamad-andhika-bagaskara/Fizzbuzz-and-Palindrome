@@ -1,0 +1,23 @@
+{
+  "name": "fizzbuzz-and-pallindrome",
+  "version": "1.0.0",
+  "description": "Project Requirements",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhamad-andhika-bagaskara/Fizzbuzz-and-Palindrome.git"
+  },
+  "author": "Muhamad Andhika Bagaskara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhamad-andhika-bagaskara/Fizzbuzz-and-Palindrome/issues"
+  },
+  "homepage": "https://github.com/muhamad-andhika-bagaskara/Fizzbuzz-and-Palindrome#readme",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
+}
