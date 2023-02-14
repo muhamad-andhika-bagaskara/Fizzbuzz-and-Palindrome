@@ -31,11 +31,11 @@ class FizzBuzz {
         console.log("FizzBuzz");
       }
       /* If number just divisible 3 log Fizz */
-      if ( i % 3 === 0 ) {
+      else if ( i % 3 === 0 ) {
         console.log("Fizz");
       }
       /* If number just divisible 5 log Buzz */
-      if ( i % 5 === 0 ) {
+      else if ( i % 5 === 0 ) {
         console.log("Buzz");
       }
       /* Else log number */
